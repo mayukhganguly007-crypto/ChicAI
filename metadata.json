@@ -1,0 +1,7 @@
+{
+  "name": "ChicAI - Daily Fashion & Makeup Stylist",
+  "description": "An AI-powered personal stylist that generates daily outfit and makeup recommendations, tracks your style history, and provides real-time feedback on your look using advanced computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
